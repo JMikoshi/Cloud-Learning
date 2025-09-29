@@ -9,6 +9,7 @@ Learning Cloud and Git
 <p>I'm currently following this [guide](https://learntocloud.guide/phase1/versioncontrol)</p>
 <p>It is very **Neat** to learn such things.</p>
 <p>There are *variations* to the ways we can learn.</p>
+This is the *[Markdown Guide](https://www.markdownguide.org)
 
 `echo this is not very intuitive at first but it's fun to learn`
 
